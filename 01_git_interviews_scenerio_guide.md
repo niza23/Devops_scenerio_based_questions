@@ -1,4 +1,3 @@
-
 # ******Git Scenario-Based Questions******
 
 ---
